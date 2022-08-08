@@ -1,3 +1,3 @@
 This folder contains the code used to run the experiments. Specifically:
-- baselines-and-ml-models/: contains a set of notebooks to preprocess data and run experiments using the random and the always abusive/not abusive/religious hate/not religious hate baselines, as well as mulinomial naive Bayes, decision tree, linear support vector classifier, and logistic regression
-- pretrained-language-models/: contains the code to run experiments using BERT, RoBERTa, AlBERTo, UmBERTo, mBERT, and XLM-Roberta
+- `baselines-and-ml-models/`: this folder contains a set of notebooks to preprocess data and run experiments using the random and the always abusive/not abusive/religious hate/not religious hate baselines, as well as mulinomial naive Bayes, decision tree, linear support vector classifier, and logistic regression;
+- `pretrained-language-models/`: this folder contains the code to run experiments using BERT, RoBERTa, AlBERTo, UmBERTo, mBERT, and XLM-Roberta.
