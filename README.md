@@ -10,4 +10,4 @@ This repository contains code and data related to the manuscript *"Addressing re
   - `dataset_en-portion.tsv`: English portion of the dataset in an aggregate form;
   - `dataset_en-portion_raw.tsv`: English portion of the dataset in a disaggregate form;
   - `dataset_it-portion.tsv`: Italian portion of the dataset in an aggregate form;
-  - `dataset_it-portion_raw.tsv`: Italian portion of the dataset in a disaggregate form;
+  - `dataset_it-portion_raw.tsv`: Italian portion of the dataset in a disaggregate form.
