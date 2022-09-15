@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/516426969.svg)](https://zenodo.org/badge/latestdoi/516426969)
+
 This repository contains code and data related to the manuscript *"Addressing religious hate online: From taxonomy creation to automated detection"* (currently under review).
 
 ## Repository content
